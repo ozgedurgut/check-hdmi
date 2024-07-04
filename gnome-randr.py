@@ -1,5 +1,7 @@
 #!/bin/env python3
 
+# SOURCE: https://gitlab.com/Oschowa/gnome-randr/-/blob/master/gnome-randr.py?ref_type=heads
+
 import sys, os, dbus
 from collections import defaultdict
 
